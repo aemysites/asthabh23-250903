@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/aemysites/asthabh23-250903/
+    type: markup
