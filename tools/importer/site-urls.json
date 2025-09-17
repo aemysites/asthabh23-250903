@@ -1,0 +1,633 @@
+{
+  "originUrl": "https://www.audemarspiguet.com",
+  "aborted": false,
+  "lastCrawled": "https://www.audemarspiguet.com/com/fr/home.html",
+  "urls": [
+    {
+      "url": "https://www.audemarspiguet.com/com/de/home.html",
+      "source": "CRAWL",
+      "targetPath": "/com/de/home",
+      "id": "e479cf5ba5ca94237c75758160a06ddcfc954b64"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/about/audemars-piguet-contemporary.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/about/audemars-piguet-contemporary",
+      "id": "7a5a14945f63fdc258e6a7be739362083b347c8f"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/about/commitments.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/about/commitments",
+      "id": "3c1a90a84b365f0b9a84d677934050455e595d76"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/about/music.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/about/music",
+      "id": "daf21dea1ac8455d979e6c3ab49f7025689e60ee"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/about/origins.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/about/origins",
+      "id": "69c34acf8be73ba343c8f6c20ab12f0b91866567"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/about/savoir-faire.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/about/savoir-faire",
+      "id": "204f02c739d778b20bd71ae910493cb43cebb2a2"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/collections.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/collections",
+      "id": "cb93371c55f0ce62761435a8deb6633d6815831f"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/form/appointment.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/form/appointment",
+      "id": "f6c3143d3c448e092ae15775796cd5853f557aba"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/form/contact-us.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/form/contact-us",
+      "id": "2bb9e80032625bafefb6843b8f2ffef8691f1cb9"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/form/newsletter-subscription.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/form/newsletter-subscription",
+      "id": "c2fb002bcea3f6d731299fe5b13007552ccf1a48"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/home.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/home",
+      "id": "1e813c24c71e60d32140af733450264e24af55e0"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/legal/accessibility.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/legal/accessibility",
+      "id": "8129e10d119c5dfabf370be2556db0666c0238de"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/legal/cookie-policy.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/legal/cookie-policy",
+      "id": "fac4ed8439f794c25c4656183fadf3f8ba0e8109"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/legal/privacy-notice.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/legal/privacy-notice",
+      "id": "c9d099e225dd5091e3ba7d4d9f898d4c6e61052e"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/legal/terms-of-use.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/legal/terms-of-use",
+      "id": "c9df73c619ac4e50146298274150f9cb410f63be"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/news",
+      "id": "65b3c58f80c15a4e159573e2be3b64d3d04c9f8a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news/art/adrian-villar-rojas-untitled-the-language-of-the-enemy.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/news/art/adrian-villar-rojas-untitled-the-language-of-the-enemy",
+      "id": "6a93fb1fd47cd5727943138197d64ee265fea149"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news/art/theojansen-strandbeest.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/news/art/theojansen-strandbeest",
+      "id": "ad76c7c011a885a00272960d3de37d5d2c63b2cf"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news/music/syncing-sounds-150.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/news/music/syncing-sounds-150",
+      "id": "f5b9085f7d09f41eca9f86e8d4efdd9814661648"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news/origins/aptalks-origins.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/news/origins/aptalks-origins",
+      "id": "8252a263b47df1bab4037789e7fe9756db847b05"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/services/after-sales-network.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/services/after-sales-network",
+      "id": "945e90d566fd7e3a801ad55576a094556efb4451"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/services/all-services.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/services/all-services",
+      "id": "d888aca88855ddd745a78b1cfd399118d9b6c4cc"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/services/ap-coverage.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/services/ap-coverage",
+      "id": "3b410e51dbf5f852eb23dba68e72cfa19198be3a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/services/caring-for-your-watch.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/services/caring-for-your-watch",
+      "id": "14dab7cc6da9c08398d2a2a040cfc9750f98d48a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/services/faq.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/services/faq",
+      "id": "2d35c1b5cf5053df0adf72cb07b8d54d79681c94"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/services/hi-care-programme.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/services/hi-care-programme",
+      "id": "dccd0a58551c46e40e1bac741e255de75640110e"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/services/line.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/services/line",
+      "id": "9b082543a73e79281205cd4161f0e1a36a3bda17"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/stores.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/stores",
+      "id": "d11438219336d866a1421007a84c0c0569a162a7"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/stores.html?filter=service",
+      "source": "CRAWL",
+      "targetPath": "/com/en/stores",
+      "id": "64d465fcd16b05764a75830c1629071798d19f3c"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/stores/ap-house-hk-k11-musea.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/stores/ap-house-hk-k11-musea",
+      "id": "d140699c3ff3ef52941c7d8f9c4b3ac63fba5c1c"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch-collection",
+      "id": "8e5165bff662bda3021a0ff91f95dd34a62a1f3d"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection.html?compare=true",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch-collection",
+      "id": "e99ee80a0ca887fcde1356bbca0c74c47c8e2bfe"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/26397OR.OO.D417CR.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch-collection/code-1159/26397or-oo-d417cr-01",
+      "id": "fb6476ebba4c9991d6ee4d53d653f82dbc067a27"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/26397QS.OO.D002KB.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch-collection/code-1159/26397qs-oo-d002kb-01",
+      "id": "552c038252d27a39918c26a2c77f6565f00eca77"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/26494BC.OO.D350KB.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch-collection/code-1159/26494bc-oo-d350kb-01",
+      "id": "043440679c84b17922cf48a17282deb90d90b6a0"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak-offshore/26238CD.OO.1300CD.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch-collection/royal-oak-offshore/26238cd-oo-1300cd-01",
+      "id": "8dcdd7536c72789b892a28b894bebb9644e8cc54"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26585XT.OO.1220XT.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch-collection/royal-oak/26585xt-oo-1220xt-01",
+      "id": "4638a260de4864d43e5e9b49faebb529f7f03a23"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26674SG.OO.1320SG.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch-collection/royal-oak/26674sg-oo-1320sg-01",
+      "id": "3efc60aaedb78083a0434be378e753b549bc2d0f"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26674ST.OO.1320ST.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch-collection/royal-oak/26674st-oo-1320st-01",
+      "id": "fa156abbcb2ab05b1fd97d92906c62e2595989f0"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26684OR.OO.1356OR.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch-collection/royal-oak/26684or-oo-1356or-01",
+      "id": "69c2b549cc18f7a0929f7e80a76b31ac56e468bf"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/2025-novelties.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch/2025-novelties",
+      "id": "a9e0930c085707841964efd32ee372f9adedda2a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/exceptional-timepieces.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch/exceptional-timepieces",
+      "id": "808bb34cae684567ab7f24006d4e98e8b7fa5cdf"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/new-perpetual-calendar-2025.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch/new-perpetual-calendar-2025",
+      "id": "0f40befca336173a516425b1b3f92c1937ba02fa"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/our-latest.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch/our-latest",
+      "id": "d66836521175f8c28ed3e6ea08de3190698708ee"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/smaller-diameter-timepieces.html",
+      "source": "CRAWL",
+      "targetPath": "/com/en/watch/smaller-diameter-timepieces",
+      "id": "2702281038390f286398aa60554a883cc061aecf"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/es/home.html",
+      "source": "CRAWL",
+      "targetPath": "/com/es/home",
+      "id": "5f59ed603de6d1d4b01de95f537df46683428a24"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/audemars-piguet-contemporary.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/about/audemars-piguet-contemporary",
+      "id": "28e9eda01d7b7ead2a4df44d5aa9ff43fef0cd42"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/commitments.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/about/commitments",
+      "id": "74103a16160e44b3abb0a0465bd0afd56dedc7e3"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/music.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/about/music",
+      "id": "55786d05d94c503b56534e0e8d80f7ff7188c28f"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/origins.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/about/origins",
+      "id": "2cd5246ca9dc25f5338b5b5b2908e34bd2372f76"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/about/savoir-faire",
+      "id": "07eee5c43fc2eff6a209c2aafe2f45ac949e43b7"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/collections",
+      "id": "25e9c43f88cac2160bd43fae12435079ae70282e"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/form/appointment.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/form/appointment",
+      "id": "2fc039653f939be85984cab679ddf3d47bbc9a8b"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/form/contact-us.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/form/contact-us",
+      "id": "88fa7743fc8504af7be82cc6cdda51d771db040d"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/form/newsletter-subscription.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/form/newsletter-subscription",
+      "id": "8d75a4223134b70aef90a629e63dc56a7fbc4694"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/home.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/home",
+      "id": "2c0afe7950b29584aefe7c1767826f19b3a4ee03"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/legal/accessibility.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/legal/accessibility",
+      "id": "a639c55779321430dea3c48b7efb099fe0957236"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/legal/cookie-policy.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/legal/cookie-policy",
+      "id": "f0f54526f67d0817791b1da6ce6f714de9bf264d"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/legal/privacy-notice.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/legal/privacy-notice",
+      "id": "922812ca4cc1a19d440e32376bd4678ea38f9889"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/legal/terms-of-use.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/legal/terms-of-use",
+      "id": "a1eb808c465dd5151e7530e63e4bde5c47ff4e5f"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/news",
+      "id": "744e6b29b192447a43e9f64c8d29aa51fa9beca7"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/theojansen-strandbeest.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/news/art/theojansen-strandbeest",
+      "id": "360f5016a80c355e0ec49304913f0e0d5f89c378"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/syncing-sounds-150.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/news/music/syncing-sounds-150",
+      "id": "f2fecbf51fcc57d1fa77c8e5295e9b3ad3c0a555"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/origins/aptalks-origins.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/news/origins/aptalks-origins",
+      "id": "2a2cded8d85ce819ec72723a9a179f8334c67b25"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/origins/from-le-brassus-to-shanghai.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/news/origins/from-le-brassus-to-shanghai",
+      "id": "8cb09fbbb72f06a993605bfb374302f8ee9ee2ec"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/services/after-sales-network.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/services/after-sales-network",
+      "id": "42f3aac780be721bc744c56394143d49d5bcad94"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/services/all-services.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/services/all-services",
+      "id": "6d8f1ef372ee898363fc776a44b7e224109674e0"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/services/ap-coverage.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/services/ap-coverage",
+      "id": "fd53a25d81b49487892c7bb659c4cde07ec76949"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/services/caring-for-your-watch.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/services/caring-for-your-watch",
+      "id": "5e45880768a0e716eca814c1faccafee2a4a18ce"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/services/faq.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/services/faq",
+      "id": "039f89d080b8519c77ac140226b5ef31e38c23d5"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/services/hi-care-programme.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/services/hi-care-programme",
+      "id": "18ec2ecfb578fbc33413c965eb3ff03d36773bd4"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/stores.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/stores",
+      "id": "e1a4c858ed20493cb584f283fc6dba036bef78a4"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/stores.html?filter=service",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/stores",
+      "id": "692f5f291ff564e991db38abea2d210f7a01b70b"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch-collection.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch-collection",
+      "id": "54c438915c6ea459b31e439ef6d057028d308b6f"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch-collection/code-1159/26397OR.OO.D417CR.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch-collection/code-1159/26397or-oo-d417cr-01",
+      "id": "0f029072cae9dda23a3cf90b8dbe7c459093f1f6"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch-collection/code-1159/26397QS.OO.D002KB.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch-collection/code-1159/26397qs-oo-d002kb-01",
+      "id": "d820365447eb0b3996f5cbb35d4e32f07f0279bc"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch-collection/code-1159/26494BC.OO.D350KB.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch-collection/code-1159/26494bc-oo-d350kb-01",
+      "id": "79d44827af35f6610bc41639e29961972ad92e2b"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch-collection/royal-oak-offshore/26238CD.OO.1300CD.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch-collection/royal-oak-offshore/26238cd-oo-1300cd-01",
+      "id": "e1b3a369817a2bcd4c18077d80296421b956248f"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch-collection/royal-oak/26585XT.OO.1220XT.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch-collection/royal-oak/26585xt-oo-1220xt-01",
+      "id": "36a05e7c0b08748d310489371fafb79180f485b6"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch-collection/royal-oak/26674SG.OO.1320SG.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch-collection/royal-oak/26674sg-oo-1320sg-01",
+      "id": "a4a8f9ec816f52a9d26572b0fdba8f1dce63e837"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch-collection/royal-oak/26674ST.OO.1320ST.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch-collection/royal-oak/26674st-oo-1320st-01",
+      "id": "2be5c7d2d8ae6d0619c50bfece1fb8a8c38c94d7"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch-collection/royal-oak/26684OR.OO.1356OR.01.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch-collection/royal-oak/26684or-oo-1356or-01",
+      "id": "517a0c2ff241bb7e57b1c3531140088e7a2ea8f5"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch/2025-novelties.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch/2025-novelties",
+      "id": "817a9645a426b036ee25d8f2356b6415a4343147"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch/exceptional-timepieces.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch/exceptional-timepieces",
+      "id": "9ac737586158c0de473a40984dccff0682ffd3a2"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch/new-perpetual-calendar-2025.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch/new-perpetual-calendar-2025",
+      "id": "0dcde671ca4061b9aa17c8badb60b72939b5fd07"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch/our-latest.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch/our-latest",
+      "id": "2c5b4607d17c0ee510bf9f3a9950c668e6bb8f63"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/watch/smaller-diameter-timepieces.html",
+      "source": "CRAWL",
+      "targetPath": "/com/fr/watch/smaller-diameter-timepieces",
+      "id": "7b2696b0c6f80ed6df2442e979f8a33d64d303f8"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/it/home.html",
+      "source": "CRAWL",
+      "targetPath": "/com/it/home",
+      "id": "9e0a3acbd4e324765b5483fcb68ae2708bf28861"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/ja/home.html",
+      "source": "CRAWL",
+      "targetPath": "/com/ja/home",
+      "id": "5a3d4e465f7fca6068f455446b0566bf492e8d18"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/ru/home.html",
+      "source": "CRAWL",
+      "targetPath": "/com/ru/home",
+      "id": "6402241a02dcbd7f6f1c804782c29e642a731b36"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/zh-hans/about/origins.html",
+      "source": "CRAWL",
+      "targetPath": "/com/zh-hans/about/origins",
+      "id": "07083bae3f5ed5738405cbfd77c2367c0f8a5679"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/zh-hans/collections.html",
+      "source": "CRAWL",
+      "targetPath": "/com/zh-hans/collections",
+      "id": "f6448d3e0917ed0a6b32d3f5c5c63bdecd2e675b"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/zh-hans/home.html",
+      "source": "CRAWL",
+      "targetPath": "/com/zh-hans/home",
+      "id": "fe547f70de671091477fb7a0186747a459b639b8"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/zh-hans/news.html",
+      "source": "CRAWL",
+      "targetPath": "/com/zh-hans/news",
+      "id": "283b1e6699bf5640ca638dc77fe30c7c61790bf4"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/zh-hans/services/wechat.html",
+      "source": "CRAWL",
+      "targetPath": "/com/zh-hans/services/wechat",
+      "id": "2d0e06bbc4f235ddc7a33a1d35c06f8b3c91aa87"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/zh-hans/stores.html",
+      "source": "CRAWL",
+      "targetPath": "/com/zh-hans/stores",
+      "id": "fbe935480cf91245c499dbcec81c8ef5b179d0eb"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/zh-hans/watch-collection.html",
+      "source": "CRAWL",
+      "targetPath": "/com/zh-hans/watch-collection",
+      "id": "dc74cfcff52d936a7225ad924c38e0067cf0d2d9"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/zh-hans/watch/exceptional-timepieces.html",
+      "source": "CRAWL",
+      "targetPath": "/com/zh-hans/watch/exceptional-timepieces",
+      "id": "f6a69dbd863af118e1c7c87d4912201430d0cc8e"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/zh-hans/watch/our-latest.html",
+      "source": "CRAWL",
+      "targetPath": "/com/zh-hans/watch/our-latest",
+      "id": "15aa61c4aaf67e9c5b5107a4541db5e270914e00"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/zh-hant/home.html",
+      "source": "CRAWL",
+      "targetPath": "/com/zh-hant/home",
+      "id": "13db82eb75c1b392fecbcdcc58b060ac35aa3693"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.audemarspiguet.com/com/en/about/foundation.html",
+      "status": "301 Moved Permanently Redirect: https://fondationsaudemarspiguet.org/en"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/foundation.html",
+      "status": "301 Moved Permanently Redirect: https://fondationsaudemarspiguet.org/fr"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":2}",
+  "error": null
+}
